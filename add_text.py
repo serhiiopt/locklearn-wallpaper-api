@@ -469,7 +469,7 @@ if __name__ == "__main__":
         "Kiwi": "kiwi",
         "Nektarine": "nectarine",
         "Papayaaa": "papaya",
-        "Pomegranate": "pomegranate",
+    
       
         
        
@@ -487,7 +487,7 @@ if __name__ == "__main__":
         ("Iphone_wallpaper_2.jpeg", "Iphone_wallpaper_2_with_text.jpeg"),
         ("iphone_wallpaper_3.jpeg", "iphone_wallpaper_3_with_text.jpeg"),
         ("iphone_wallpaper_4.jpeg", "iphone_wallpaper_4_with_text.jpeg"),
-        ("iphone_wallpaper_5.jpeg", "iphone_wallpaper_5_with_text.jpeg"),
+        ("iphone_wallpaper_6.jpeg", "iphone_wallpaper_6_with_text.jpeg"),
     ]
 
     for input_name, output_name in variants:
